@@ -1,4 +1,4 @@
-# 💓 Chronic Heart Failure Detection
+#  Chronic Heart Failure Detection
 
 This repository contains **datasets** and **Python scripts using machine learning libraries** to detect **Chronic Heart Failure (CHF)** and classify **heart sounds** as **normal or abnormal**.
 
